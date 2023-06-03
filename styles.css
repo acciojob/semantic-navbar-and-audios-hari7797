@@ -1,2 +1,13 @@
 
-/* Your CSS Code here. */
+.navbar li{
+	list-style:none;
+	
+	
+}
+
+.navbar li a{
+	text-decoration:none;
+	float:left;
+	margin:13px 10px;
+	
+}
